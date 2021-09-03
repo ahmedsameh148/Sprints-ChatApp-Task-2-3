@@ -1,1 +1,0 @@
-Please Run Pusher Server first by command "npm start"
